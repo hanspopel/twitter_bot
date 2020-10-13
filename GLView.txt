@@ -1,0 +1,1160 @@
+//=================================
+
+// include guard
+
+#ifndef __GLView_INCLUDED__
+
+#define __GLView_INCLUDED__
+
+#include "pch.h"
+
+#include "GLDrawbuffer.h"
+
+#include "GLDynamicBoolArray.h"
+
+#include "GLDynamicCPointArray.h"
+
+#include "GLEvent.h"
+
+#include "GLTouch.h"
+
+#include "GLImage.h"
+
+#include "GLFont.h"
+
+#include "GLAnimation.h"
+
+#include "Control.h"
+
+#include "GLContextMenuItem.h"
+
+#include "Engine.h"
+
+#define GLControlEventValueChanged 0
+
+#define GLControlEventTouchDown 1
+
+#define GLControlEventLongTapDelete 2
+
+#define GLControlEventTouchMoved 3
+
+#define GLControlEvent2ndFingerTouchDown 4
+
+#define GLControlEventTouchUp 5
+
+#define GLControlEventTouchUpInside 6
+
+#define GLControlEventTouchUpOutside 7
+
+#define GLControlEventDraggedOnto 8
+
+#define GLControlEventTripleTap 9
+
+#define GLControlEventDoubleTap 10
+
+#define GLControlEventLongPressed 11
+
+#define GLControlEventVeryLongPressed 12
+
+#define GLControlEventDragStart 12
+
+#define GLControlEventDragMove 13
+
+#define GLControlEventDragEnd 14
+
+#define GLControlEventDragOnStart 15
+
+#define GLControlEventDragOnMove 16
+
+#define GLControlEventDragOnEnd 17
+
+#define GLControlEventScrollWheel 18
+
+#define GLTextAlignmentLeft 0
+
+#define GLTextAlignmentRight 1
+
+#define GLTextAlignmentCenter 2
+
+#define GLBaselineTop 3
+
+#define GLBaselineCenter 4
+
+#define GLBaselineBottom 5
+
+class GLContext;
+
+class GLViewDrawDelegate {
+
+public:
+
+    virtual void drawSceneInView(GLView * v) {};
+
+};
+
+class GLViewTouchDelegate {
+
+public:
+
+    virtual void handleTouchesBegan(GLTouch* touch, GLView * v) {};
+
+    virtual void handleTouchesMoved(GLTouch* touch, GLView * v) {};
+
+    virtual void handleTouchesEnded(GLTouch* touch, GLView * v) {};
+
+};
+
+using namespace std;
+
+void deleteEvents(Events* events);
+
+typedef unordered_map<string, GLFont*> RedrawTextDict;
+
+typedef unordered_map<GLuint, GLFont*> ActiveFontsDict;
+
+typedef unordered_map<string, GLImage*> RedrawImageDict;
+
+typedef unordered_map<GLuint, GLImage*> ActiveImagesDict;
+
+typedef vector<GLuint> TextureArray;
+
+typedef vector<Callback*> Callbacks;
+
+typedef vector<GLEvent*> Events;
+
+typedef vector<GLView*> Subviews;
+
+typedef vector<GLTouch*> Touches;
+
+typedef unordered_map<GLTouch*, GLView*> TouchDict;
+
+typedef unordered_map<GLTouch*, CPoint> TouchPositionDict;
+
+typedef unordered_map<string, GLView*> ViewDict;
+
+typedef unordered_map <string, GLView*> GLViewDict;
+
+typedef vector<GLViewDrawDelegate*> DrawObservers;
+
+typedef vector<GLViewTouchDelegate*> TouchObservers;
+
+class GLView : public GLAnimationDelegate, public Control, public ParameterHost {
+
+public:
+
+    //functions
+
+    GLView(ZDB * a_zdb, CRect rect);
+
+    GLView(ZDB * a_zdb);
+
+    bool popup_style = 0;
+
+    int popup_position = 0;
+
+    //bool golden_ratio_design = true;
+
+    //float golden_ratio_ratios[50];
+
+    //float find_best_golden_ratio_aspect(float a_val);
+
+    virtual ~GLView();
+
+    CRect highlight_rect;
+
+    FrameBlock frame_block = 0;
+
+    FrameBlock pre_frame_block = 0;
+
+    //bool delete_subs = false;
+
+    void initWithRect(CRect rect);
+
+    CSize size_with_font = SizeMake(0, 0);
+
+    CRect maximumSquare;
+
+    float max_height = 0;
+
+    float max_width = 0;
+
+    bool top_constrained = 0;
+
+    bool bottom_constrained = 0;
+
+    bool left_constrained = 0;
+
+    bool right_constrained = 0;
+
+    bool constraints[4] = {0, 0, 0, 0};
+
+    float relativeSize = -1;
+
+    bool did_autoresize = true;
+
+    bool fixed_ratio = false;
+
+    float length_by_height = 0;
+
+    bool being_long_pressed = false;
+
+    bool will_delete = false;
+
+    bool was_already_long_pressed = false;
+
+    bool was_already_very_long_pressed = false;
+
+    virtual void addSubview(GLView *view, bool strong = false);
+
+    virtual void attachBottom(CRect a_rect, float a_height);
+
+    virtual void attachRight(CRect a_rect, float a_width);
+
+    virtual void attachLeft(CRect a_rect, float a_width);
+
+    virtual void attachTop(CRect a_rect, float a_height);
+
+    virtual void attachToBottom(GLView * a_sibling_view, float a_height);
+
+    virtual void attachToRight(GLView * a_sibling_view, float a_height);
+
+    virtual void attachToLeft(GLView * a_sibling_view, float a_height);
+
+    virtual void attachToTop(GLView * a_sibling_view, float a_height);
+
+    virtual void insertSubview(GLView * view, long index, bool strong = false);
+
+    virtual void removeSubview(GLView*view);
+
+    virtual void removeAllSubviews();
+
+    virtual void removeFromSuperview();
+
+    void bringToFront();
+
+    void sendToBack();
+
+    void addCallbackForControlEvent(Callback * callback, int eventType, string className = "");
+
+    bool removeCallback(Callback * cb, int eventType);
+
+    void removeAllControlEventsForType(int eventType);
+
+    //bool context_menu_on_touch_down = false;
+
+    CallbackBlock visible_changed = 0;
+
+    Callbacks * visible_changed_listener = 0;
+
+    bool added_cbs = false;
+
+    void check_context_menu(GLTouch * touch, bool highlight, bool execute);
+
+    bool block_context_menu = false;
+
+    bool showing_context_menu = false;
+
+    GLContextMenuItems * menu_items;
+
+    float line_width = -1;
+
+    bool subviews_changed = false;
+
+    void addContextMenuItem(string text, Callback * block);
+
+    void removeContextMenuItem(string text);
+
+    string help_token = "";
+
+    string caption = "";
+
+    string control_help_token = "";
+
+    string control_title = "";
+
+    float paddingLeft = 3;
+
+    bool ignore_global_radius = false;
+
+    bool ignore_global_border_opacity = true;
+
+    float inset_x = 0;
+
+    float inset_y = 0;
+
+    void setSingleBorderColor(GLColor a_single_border_color);
+
+    void get_description(mss * session);
+
+    void restore_from_description(mss * session);
+
+    virtual void get_class_description(mss * session){};
+
+    virtual void restore_class_description(mss * session){};
+
+    void addCallbackForDraggedOnEventByClass (Callback * callback, string className);
+
+    void addCallbackForDraggingOnEventByClass (Callback * callback, string className);
+
+    virtual bool hasBeenDraggedOntoBy_At_(GLView* view, CPoint location);
+
+    bool deleted = false;
+
+    float lineGap = 0;
+
+    virtual void didAnimate(GLAnimation * animation);
+
+    bool is_container = false;
+
+    void bringSubviewToFront(GLView * view);
+
+    void sendSubviewToback(GLView * view);
+
+    void addTouchObserver(GLViewTouchDelegate * observer);
+
+    void removeTouchObserver(GLViewTouchDelegate * observer);
+
+    void addDrawObserver(GLViewDrawDelegate * observer);
+
+    void removeDrawObserver(GLViewDrawDelegate * observer);
+
+    CRect relativeImageFrame;
+
+    float corner_radius = 8;
+
+    bool invert_colors = false;
+
+    float global_opacity = 1;
+
+    int circle_resolution = 40;
+
+    void set_spacing(float spacing);
+
+    float spacing_top = 0;
+
+    float spacing_bottom = 0;
+
+    float spacing_left = 0;
+
+    float spacing_right = 0;
+
+    float spacing_left_percent = 0;
+
+    float spacing_right_percent = 0;
+
+    float spacing_top_percent = 0;
+
+    float spacing_bottom_percent = 0;
+
+    void setUniformSpacing(float a_spacing);
+
+    bool show_bounds = false;
+
+    CRect original_frame;
+
+    CRect original_bounds;
+
+    bool round_corners = false;
+
+    bool respond_to_current_drag = true;
+
+    bool even_char_spacing = false;
+
+    bool omit_clipped_letters = true;
+
+    bool drawCorners = false;
+
+    bool corners[4] = { true, true, true, true };
+
+    bool trunc_with_dots = false;
+
+    void computeMinMaxOffsets(CPoint*minOffsets, CPoint* maxOffsets, bool* isVisibleAr, CSize clipSize, CPoint transla);
+
+    bool checkVisibilityOfSubviewsAfterTranslation();
+
+    virtual void performEvents(Events * events, bool block = false);
+
+    virtual void performEvents(int eventType, bool block = false);
+
+    void setNeedsDisplay(bool aNeedsDisplay);
+
+    virtual bool renderToDrawbuffer(GLDrawbuffer* drawBuffer);
+
+    virtual bool renderGlobalModes(GLDrawbuffer* drawBuffer);
+
+    stringVector touch_allowed_in_modes;
+
+    virtual void doPhysics(double timeSinceLastUpdate, double currentTime);
+
+    virtual void removeTouch(GLTouch * touch);
+
+    virtual bool touchesBeganGlobal(GLTouch * touch);
+
+    virtual void touchesBegan(GLTouch* touch);
+
+    virtual void touchesMoved(GLTouch* touch);
+
+    virtual void touchesEnded(GLTouch* touch);
+
+    virtual void scrollWheel(GLTouch* touch);
+
+    virtual void startDragging(GLTouch * touch);
+
+    virtual void setScale(CPoint aScale);
+
+    virtual void setCenter(CPoint aCenter);
+
+    GLView* hitTestWithPoint(CPoint point);
+
+    Callbacks * pre_draw_callbacks;
+
+    Callbacks * post_draw_callbacks;
+
+    void add_post_draw_cb(Callback *cb);
+
+    void remove_post_draw_cb(Callback *cb);
+
+    void add_pre_draw_cb(Callback *cb);
+
+    void remove_pre_draw_cb(Callback *cb);
+
+    void remove_all_post_draw_cbs();
+
+    void remove_all_pre_draw_cbs();
+
+    bool does_draw_callbacks = true;
+
+    double currentTime = 0;
+
+    CRect calculateImageFrame(GLImage * imagee, CRect relativeImFrame, bool keep_ratio, bool stretch);
+
+    void calculateImageFrame();
+
+    void calculateImageFrameHighlight();
+
+    void calculateImageFrameOn();
+
+    void setSuperviewStack(unsigned int aSuperviewStack);
+
+    virtual bool view_IsDraggedAtLocation_(GLView* view, CPoint location);
+
+    virtual CRect GLStringBounds(string str, CRect aFrame, GLFont * font, int textAlignment = GLTextAlignmentCenter, int baseLine = GLBaselineCenter, bool multiLine = false, float a_rotation = 0, CPoint a_center = CPointMake(0.5, 0.5));
+
+    GLFont * adaptedFont(string text, CSize size, string fontName = "NotoSansDisplay", int thickness = 1, int maxFontSizeLevel = 6, bool x = true, bool y = true);
+
+    virtual CRect GLDrawString(string str, CRect aFrame, GLFont * font, int textAlignment = GLTextAlignmentCenter, int baseLine = GLBaselineCenter, bool multiLine = false, float a_rotation = 0, CPoint a_center = CPointMake(0.5, 0.5));
+
+    virtual CRect GLDrawAdaptiveString(string str, CRect aFrame, string fontName = "FiraSans-Book", int thickness = 1, int font_size_level = 6, int textAlignment = GLTextAlignmentCenter, int baseLine = GLBaselineCenter, bool x = 0, bool y = 0, bool multiLine = false, float a_rotation = 0, CPoint a_center = CPointMake(0.5, 0.5));
+
+    virtual void GLDrawImage(GLImage * anImage, CRect targetRect, bool keep_aspect_ratio = false);
+
+    virtual void GLDrawImageWithRotation(GLImage * anImage, CRect targetRect, float a_rotation, CPoint a_center = CPointMake(0.5, 0.5), bool keep_aspect_ratio = false);
+
+    virtual void GLDrawBorder(CRect rect, float borderWidth);
+
+    virtual void GLDrawBorderAndRect(CRect rect, float borderWidth, bool draw_rect);
+
+    virtual void GLDrawBorderOutside(CRect rect, float borderWidth);
+
+    virtual void GLDrawRect(CRect rect);
+
+    virtual void GLDrawRectRoundEdges(CRect rect, float diameter);
+
+    virtual void GLDrawRectRoundEdgesWithColors(CRect rect, float radius, GLColor colorA, GLColor colorB, GLColor colorC, GLColor colorD, bool corner_0 = true, bool corner_1 = true, bool corner_2 = true, bool corner_3 = true);
+
+    virtual void GLDrawRoundEdges(CRect rect, float radius, bool corner_0, bool corner_1, bool corner_2, bool corner_3);
+
+    virtual void GLDrawRectRoundEdgesWithGradient(CRect rect, float radius, GLColor innerColor, GLColor outerColor);
+
+    virtual void GLDrawRectWithGradient(CRect rect, GLColor c_upper_left, GLColor c_upper_right, GLColor c_lower_left, GLColor c_lower_right);
+
+    virtual void GLDrawCircleWithGradient(CPoint center_point, float radius, float start_angle, float end_angle, GLColor innerColor, GLColor outerColor);
+
+    virtual void GLDrawColorWheel(CPoint center_point, float radius, int resolution);
+
+    virtual void GLDrawRoundBorder(CRect rect, float a_borderWidth);
+
+    virtual void GLDrawRoundBorderC(CRect rect, float a_borderWidth, bool a_corner_1, bool a_corner_2, bool a_corner_3, bool a_corner_4);
+
+    virtual void GLDrawRoundBorderOutside(CRect rect, float a_borderWidth);
+
+    virtual void GLDrawRoundBorderCOutside(CRect rect, float a_borderWidth, bool a_corner_1, bool a_corner_2, bool a_corner_3, bool a_corner_4);
+
+    virtual void GLDrawRoundRectC(CRect rect, bool a_corner_1 = true, bool a_corner_2 = true, bool a_corner_3 = true, bool a_corner_4 = true);
+
+    virtual void GLDrawRoundBorderWithGradientC(CRect rect, float a_borderWidth, bool a_corner_1, bool a_corner_2, bool a_corner_3, bool a_corner_4);
+
+    virtual void GLDrawBorderedCircleWithGradient(CPoint circle_center, float radius, float border_width, float angle_start, float angle_end, GLColor color_circle, GLColor color_border, GLColor border_outer, int resolution);
+
+    virtual void GLDrawCircleWithGradient(CPoint center_point, float radius, float angle_start, float end_angle, GLColor color_start, GLColor color_end, GLColor inner_color);
+
+    virtual void GLDrawRectWithRotation(CRect rect, float rotation, CPoint center);
+
+    virtual void GLDrawRectWithColors(CRect rect, GLColor aC, GLColor bC, GLColor cC, GLColor dC);
+
+    virtual void GLDrawRectWithColors2(CRect rect, GLColor aC, GLColor bC, GLColor cC, GLColor dC);
+
+    virtual void GLDrawRectWithRotationAndColors(CRect rect, GLColor aC, GLColor bC, GLColor cC, GLColor dC, float rotation, CPoint center);
+
+    virtual GLColor GLColorHSVFromAngular(float angle_in_rad);
+
+    virtual void GLDrawBorderedTriangle(CPoint point_a, CPoint point_b, CPoint point_c, float a_border_width);
+
+    virtual GLColor GLColorFromCoordinates(CPoint a_point, GLColor colorA, GLColor colorB, GLColor colorC, GLColor colorD);
+
+    virtual void GLDrawLine(CPoint a, CPoint b);
+
+    virtual void GLDrawLineWithColors(CPoint a, CPoint b, GLColor aC, GLColor bC);
+
+    virtual void GLDrawTriangle(CPoint a, CPoint b, CPoint c);
+
+    virtual void GLDrawTriangleWithColors(CPoint a, CPoint b, CPoint c, GLColor aC, GLColor bC, GLColor cC);
+
+    virtual void GLDrawTriangleWithRotation(CPoint a, CPoint b, CPoint c, float rotation, CPoint center);
+
+    virtual void GLDrawTriangleWithRotationAndColors(CPoint a, CPoint b, CPoint c, GLColor aC, GLColor bC, GLColor cC, float rotation, CPoint center);
+
+    virtual void GLDrawFilledCircleInRectWithColors(CRect rect, float resolution, bool useMaximumSize, GLColor innerColor, GLColor, GLColor outterColor);
+
+    virtual void GLDrawFilledCircleAtPointWithColors(CPoint centr, float radius, float resolution, bool antialiasing, GLColor innerColor, GLColor outterColor);
+
+    virtual void GLDrawFilledCircleInRect(CRect rect, float resolution, bool antialiasing);
+
+    virtual void GLDrawFilledCircleAtPoint(CPoint centr, float radius, float resolution);
+
+    virtual void GLDrawLineCircleInRect(CRect rect, float lineWidth, float resolution, float antialiasing);
+
+    virtual void GLDrawLineCircleAtPoint(CPoint centr, float radius, float lineWidth, float resolution);
+
+    virtual double sine_approx(float argument);
+
+    virtual double cos_approx(float argument);
+
+    virtual bool angle_is_in_quadrant(float argument, float start_angle, float end_angle);
+
+    virtual void GLDrawGradientCircularSegment(CPoint circle_center, float radius, float angle_start, float angle_end, GLColor color_circle, float minimum_percent, float maximum_percent, int resolution);
+
+    virtual void GLDrawBorderedCircularSegment(CPoint circle_center, float radius, float border_width, float angle_start, float angle_end, GLColor color_circle, GLColor color_border, int resolution);
+
+    virtual void GLDrawBorderedCircle(CPoint circle_center, float radius, float border_width, GLColor color_circle, GLColor color_border, int resolution);
+
+    virtual void GLDrawQuarterOuterCircle(CRect a_rect, int position, int radius, int resolution);
+
+    virtual void GLDrawGraph(double * coords, int length, CRect rect, float lineWidth, bool centered, float * intensity = 0, bool solid = false, bool background = false, bool line = true, GLColor line_color = GLWhite());
+
+    virtual void GLDrawGraphf(float * coords, int length, CRect rect, float lineWidth, bool centered, float * intensity = 0, bool solid = false, bool background = false, bool line = true, GLColor line_color = GLWhite());
+
+    virtual void GLDrawBoldWaveform(float * coords, int length, CRect rect, float lineWidth, bool centered, float * intensity = 0, bool solid = false, bool background = false, bool line = true, GLColor line_color = GLWhite());
+
+    virtual void GLDrawGraphSmoothf(float * coords, int length, CRect rect, float lineWidth, bool centered);
+
+    virtual void GLDrawGraphInterpolated(float * coords, int length, CRect rect, float lineWidth, bool centered);
+
+    virtual void GLDrawGraphMinMax(float * coords, int length, CRect rect, float lineWidth, bool centered);
+
+    virtual void GLDrawMeshf(float *** mesh_coords, int length_x, int length_y, CRect rect, float lineWidth);
+
+    virtual void GLDrawBezier(CPoint a, CPoint b, CPoint c, float lineWidth, unsigned int resolution);
+
+    virtual void  GLDrawCubicBezier(CPoint A, CPoint B, CPoint C, CPoint D, float lineWidth, int resolution);
+
+    virtual void GLDrawLineWithTriangles(CPoint a, CPoint b, float lineWidth);
+
+    virtual void GLDrawGraphFromMatrixf(float ** coords, CPoint dimension, CRect rect, float lineWidth, bool row, int number, bool centered);
+
+    virtual void GLDrawGraphVerticalf(float * coords, int length, CRect rect, float lineWidth, bool centered);
+
+    virtual void setFrame(CRect rect);
+
+    virtual void setRelativeFrame(CRect rect);
+
+    void setRelativeCenter(CPoint aRelativeCenter);
+
+    virtual void setHighlighted(bool aHighlighted);
+
+    virtual void setHidden(bool an_is_hidden);
+
+    bool is_hidden = false;
+
+    bool hide_by_drag = false;
+
+    virtual void setIsTouched(bool anIsTouched);
+
+    virtual void setIsInsideScreen(bool aIsInsideScreen);
+
+    void setRotation(float aRotation);
+
+    virtual void setImage(GLImage *anImage);
+
+    void setImage(string a_name);
+
+    void setImageHighlight(GLImage *anImage);
+
+    void setImageOn(GLImage *anImage);
+
+    virtual void setBorder(bool aBorder);
+
+    virtual void setIsVisible(bool aIsVisible);
+
+    void setIsPopupLayer(bool anIsPopupLayer);
+
+    void setContentScaleFactor(float aContentScaleFactor);
+
+    virtual void setValue(double aValue, bool feedback = false);
+
+    virtual void setTranslation(CPoint aTranslation);
+
+    virtual void setClippingFrame(CRect aClippingFrame);
+
+    //overridable
+
+    virtual void applyPhysics(double timeSinceLastUpdate, double currentTime);
+
+    virtual void handleTouchesBegan(GLTouch* touch);
+
+    virtual void handleTouchesMoved(GLTouch* touch);
+
+    virtual void handleTouchesEnded(GLTouch* touch);
+
+    GLAnimation * animateFrame(CRect targetRect, double duration, bool repeat, bool reverse, bool reset, CallbackBlock event, CallbackBlock changeHandler, int animation_style = 0);
+
+    GLAnimation * animateRotation(float targetValue, double duration, bool repeat, bool reverse, bool reset, CallbackBlock event, CallbackBlock changeHandler, int animation_style = 0);
+
+    void updateMatrizes();
+
+    //virtual void animateColor(GLColor * colorToAnimate, GLColor * targetColor, double duration, bool reverse, bool repeat, bool reset, GLEvent* event);
+
+    //virtual void animateFloat(float * floatToAnimate, float * targetValue, double duration, bool reverse, bool repeat, bool reset, GLEvent* event);
+
+    //virtual void animateDouble(double * floatToAnimate, double * targetValue, double duration, bool reverse, bool repeat, bool reset, GLEvent* event);
+
+    //virtual void stopAnimating();
+
+    //virtual void stopAnimatingFrame();
+
+    //virtual void stopAnimatingColor();
+
+    //virtual void stopAnimatingFloat();
+
+    //virtual void stopAnimatingDouble();
+
+    virtual void makeTransparent();
+
+    virtual void drawScene(double frameDuration, double currentTime);
+
+    bool lazyDrawing = true;
+
+    bool transmitTouchesMoved = true;
+
+    //variables
+
+    CRect relativeFrame;
+
+    CRect borderFrame;
+
+    CRect recallFrame;
+
+    int flag = 0;
+
+    CPoint locationOfDrag;
+
+    CPoint startLocationOfDrag;
+
+    CRect startFrameOfDrag;
+
+    CRect startFrameOfDragGL;
+
+    CPoint startTranslationOfDrag;
+
+    double decValue = 0;
+
+    CallbackBlock update_block = 0;
+
+    GLTouch * performingTouch = 0;
+
+    TransformationMatrix originGLMatrix;
+
+    TransformationMatrix rotationMatrix;
+
+    TransformationMatrix rotationHorizontalMatrix;
+
+    TransformationMatrix translationMatrix;
+
+    TransformationMatrix scaleMatrix;
+
+    TransformationMatrix centerMatrix;
+
+    TransformationMatrix transformationMatrix;
+
+    TransformationMatrix svTransformationMatrix;
+
+    TransformationMatrix inverseSvTransformationMatrix;
+
+    MutableDictionary * animationDict;
+
+    Subviews * subviews;
+
+    GLDynamicBoolArray * subviewsVisible;
+
+    GLDynamicCPointArray * minimumOffsets;
+
+    GLDynamicCPointArray * maximumOffsets;
+
+    SuperviewTransformations * svt;
+
+    GLLine * lines = 0;
+
+    GLLineColor * lineColors;
+
+    GLLine * tempLines = 0;
+
+    GLLineWithColor * tempColoredLines = 0;
+
+    unsigned int maximumLineOffset = 0;
+
+    GLTriangle * triangles;
+
+    GLDrawbuffer * currentDrawbuffer = 0;
+
+    GLTriangleColor * colors;
+
+    unsigned int triangleOffset = 0;
+
+    unsigned int lineOffset = 0;
+
+    GLTriangle * redrawTriangles;
+
+    GLTriangleColor * redrawColors;
+
+    GLLine * redrawLines;
+
+    GLLineColor * redrawLineColors;
+
+    TextureArray * fontIDs;
+
+    ActiveFontsDict * fontsDict;
+
+    RedrawTextDict * redrawTextBuffers;
+
+    TextureArray * imageIDs;
+
+    ActiveImagesDict * imagesDict;
+
+    RedrawImageDict * redrawImageBuffers;
+
+    GLTriangle * tempTriangles;
+
+    GLTriangleWithColor * tempColoredTriangles;
+
+    GLColor * trianglecolors;
+
+    int maximumTriangleOffset = 0;
+
+    unsigned int subviewCount = 0;
+
+    bool canBeDraggedOn = true;
+
+    bool enabled = true;
+
+    virtual void setEnabled(bool an_enabled);
+
+    bool isInsideScreen = false;
+
+    bool excludesSubviewsOutsideViewFromRendering = false;
+
+    bool isExcludedFromRenderingIfOutsideView = false;
+
+    bool clipsToBounds = true;
+
+    bool ignores_clipping = false;
+
+    void set_ignores_clipping(bool an_ignores_clipping);
+
+    bool showsImage = true;
+
+    unsigned long int indexInSubviews = 0;
+
+    GLView * superview = 0;
+
+    GLView * touchview = 0;
+
+    GLContext * context = 0;
+
+    virtual void set_context(GLContext * aContext);
+
+    CPoint * minOffsetsArray;
+
+    CPoint * maxOffsetsArray;
+
+    bool * isVisibleArray;
+
+    void setTag(int tag, bool deep);
+
+    void setTargetObject(void * object, bool deep);
+
+    bool handlesDrags = true;
+
+    CPoint minimumOffset;
+
+    CPoint maximumOffset;
+
+    CRect frame;
+
+    CRect visibleRect;
+
+    CRect clippingFrame;
+
+    CRect fontClippingFrame;
+
+    CRect frameGL;
+
+    CRect bounds;
+
+    CRect unscaledFrame;
+
+    CPoint center;
+
+    CPoint relativeCenter;
+
+    CPoint originGL;
+
+    CRect original_frameGL;
+
+    CPoint original_originGL;
+
+    CPoint scale;
+
+    float contentScaleFactor = 1;
+
+    CPoint scaledOriginGL;
+
+    CPoint scaledCenter;
+
+    CRect scaledClippingFrame;
+
+    CRect scaledFontClippingFrame;
+
+    CRect screenFrame;
+
+    CRect relativeScreenFrame;
+
+    CPoint space;
+
+    TouchDict * touchDict = 0;
+
+    Touches * activeTouches = 0;
+
+    GLImage * image = 0;
+
+    GLImage * imageHighlight = 0;
+
+    GLImage * imageOn = 0;
+
+    CRect imageFrame;
+
+    CRect imageFrameHighlight;
+
+    CRect imageFrameOn;
+
+    string image_path = "";
+
+    Subviews * popup_layers;
+
+    GLColor backgroundColor = GLColorMake(0, 0, 0, 0);
+
+    GLColor backgroundColorHighlight = GLColorMake(0, 0, 0, 0);
+
+    GLColor backgroundColorOn = GLColorMake(0, 0, 0, 0);
+
+    GLColor colorOff = GLColorMake(0, 0, 0, 0);
+
+    GLColor colorHigh = GLColorMake(0, 0, 0, 0);
+
+    GLColor colorOn = GLColorMake(0, 0, 0, 0);
+
+    GLColor drag_highlight_color = GLWhite();
+
+    float preferred_aspect_ratio = 0;
+
+    GLColor borderColor = GLColorMake(0, 0, 0, 0);
+
+    GLColor borderColorHighlight = GLColorMake(0, 0, 0, 0);
+
+    GLColor borderColorOn = GLColorMake(0, 0, 0, 0);
+
+    GLColor imageColor = GLColorMake(1, 1, 1, 1);
+
+    GLColor imageColorHigh = GLColorMake(1, 1, 1, 1);
+
+    GLColor imageColorOn = GLColorMake(1, 1, 1, 1);
+
+    CallbackBlocks * delete_blocks;
+
+    GLViews * strong_members;
+
+    GLViews * strong_parents;
+
+    void add_strong_member(GLView * member);
+
+    void add_strong_parent(GLView * member);
+
+    void remove_strong_member(GLView * member);
+
+    void remove_strong_parent(GLView * member);
+
+    bool has_parent = false;
+
+    float durationOfTouch = 0;
+
+    float startTimeOfTouch = 0;
+
+    bool borderChanges = true;
+
+    bool colorChanges = true;
+
+    bool normal_border = true;
+
+    bool border = false;
+
+    float borderWidth = 1;
+
+    CPoint translation;
+
+    CPoint scaledTranslation;
+
+    CPoint previousOffset;
+
+    CPoint offset;
+
+    float rotation = 0;
+
+    int tag = 0;
+
+    float tagf = 1;
+
+    bool inSlidingView = false;
+
+    bool isTouchEnabled = true;
+
+    bool isTouched = false;
+
+    bool rendersEachFrame;
+
+    bool highlightsWhenTouched = false;
+
+    bool isVisible = false;
+
+    bool isVisible2 = false;
+
+    bool highlighted = false;
+
+    virtual void setIsVisible2(bool anIsvisible2);
+
+    bool excluded_from_hittest = false;
+
+    bool included_from_hittest = false;
+
+    bool draw_right_border = false;
+
+    bool draw_bottom_border = false;
+
+    bool draw_top_border = false;
+
+    bool draw_left_border = false;
+
+    bool dragged_on_upper_half = false;
+
+    bool dragged_on_lower_half = false;
+
+    float single_border_width = 1;
+
+    float single_border_height = 1;
+
+    GLColor single_border_color = GLColorMakeChar(29, 41, 46, 1);
+
+    GLColor colorGL = GLWhite();
+
+    unsigned int superviewStack = 0;
+
+    unsigned long int triangleCount = 0;
+
+    unsigned long int maxTriangleCount = 1;
+
+    unsigned long int maxLineCount = 1;
+
+    unsigned long int lineCount = 0;
+
+    unsigned long int spriteCount = 0;
+
+    bool keepImageAspectRatio = true;
+
+    bool stretchImage = false;
+
+    bool smoothBorder = false;
+
+    bool autoresizes = true;
+
+    float X = 0;
+
+    float Y = 0;
+
+    bool hasMoved = false;
+
+    int number = -1;
+
+    bool regularDrawing = false;
+
+    bool highlightsWhenDraggedOn = true;
+
+    bool highlightedByDrag = false;
+
+    virtual void setHighlightedByDrag(bool aHighlightedByDrag);
+
+    void * targetObject = 0;
+
+    GLView * lastHighlightedDragTargetView = 0;
+
+    bool isDragEnabled = false;
+
+    bool isBeingDragged = false;
+
+    bool isPopupLayer = false;
+
+    bool isPressedLong = false;
+
+    bool wasTapped = false;
+
+    bool hide_when_dragged = true;
+
+    bool wasDragEnabled = false;
+
+    CPoint locationOfDragOn;
+
+    bool ignore_blocked_touches = false;
+
+    float delay_very_long_press = 0.5;
+
+    float delay_long_press = 0.25;
+
+    float delay_touch_time = 0.125;
+
+    CPoint touchStart;
+
+    Events * glControlEventsScrollWheel = 0;
+
+    Events * glControlEventsValueChanged = 0;
+
+    Events * glControlEventsTouchDown = 0;
+
+    Events * glControlEventsTouchUpInside = 0;
+
+    Events * glControlEventsTouchUpOutside = 0;
+
+    Events * glControlEventsTouchUp = 0;
+
+    Events * glControlEventsDraggedOnto = 0;
+
+    Events * glControlEventsDraggedOn = 0;
+
+    Events * glControlEventsTripleTap = 0;
+
+    Events * glControlEventsDoubleTap = 0;
+
+    Events * glControlEventsLongPressed = 0;
+
+    Events * glControlEventsVeryLongPressed = 0;
+
+    Events * glControlEventsTouchMoved = 0;
+
+    Events * glControleventsDeleteLongTap = 0;
+
+    Events * glControleventsDragStart = 0;
+
+    Events * glControleventsDragMove = 0;
+
+    Events * glControleventsDragEnd = 0;
+
+    Events * glControleventsDragOnStart = 0;
+
+    Events * glControleventsDragOnMove = 0;
+
+    Events * glControleventsDragOnEnd = 0;
+
+    Touches * currentTouches = 0;
+
+    TouchObservers * touchObserver = 0;
+
+    DrawObservers * drawObserver = 0;
+
+    CRect frameBeforeAnimation;
+
+    bool isMultipleTouchEnabled = true;
+
+    GLView * lastHighlightedDragView = 0;
+
+    int currentTouchCount = 0;
+
+    string token = "";
+
+    string class_token = "";
+
+    string super_class_token = "";
+
+    string control_token = "";
+
+    bool vertical = false;
+
+    bool verticalImage = false;
+
+    unsigned int counter;
+
+    string name = "";
+
+    MutableDictionary * descriptionDict = 0;
+
+    int parameterIndex = 0;
+
+    //lazy drawing
+
+    bool needsDisplay = true;
+
+    bool updatedRotation = true;
+
+    bool updatedFrame = true;
+
+    bool updatedTranslation = true;
+
+	void display();
+
+    GLenum err;
+
+    GLuint vVertexPositionBuffer;
+
+    GLuint vVertexColorBuffer;
+
+    GLuint vIndexBuffer;
+
+    GLint vPositionAttribLocation;
+
+    GLint vColorAttribLocation;
+
+    GLint vTransformUniformLocation;
+
+    int textureId = 0;
+
+    void gl_draw_buffers(float * vert_data, float * color_data, int number_verts, int type);
+
+    GLuint mVProgram;
+
+    void setup_basic_shaders();
+
+    void setup_basic_shadersFBO(CSize size);
+
+    bool has_fbo_shaders = false;
+
+    bool has_shaders = false;
+
+};
+
+#endif
+
