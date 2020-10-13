@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="de" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Liste der größten Städte der Welt (historisch) – Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgRequestId":"5e158527-92aa-4861-af8f-c0764ff9f633","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Liste_der_größten_Städte_der_Welt_(historisch)","wgTitle":"Liste der größten Städte der Welt (historisch)","wgCurRevisionId":204048083,"wgRevisionId":204048083,"wgArticleId":767334,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Weblink offline IABot","Wikipedia:Defekte Weblinks/Ungeprüfte Botmarkierungen 2019-04","Liste (Orte)","Liste (geographische Rekorde)"],"wgPageContentLanguage":"de","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Liste_der_größten_Städte_der_Welt_(historisch)","wgRelevantArticleId":767334,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":204048083,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1487979"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"de"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=de&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=de&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=de&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.10"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//de.m.wikipedia.org/wiki/Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)"/>
+<link rel="alternate" type="application/x-wiki" title="Seite bearbeiten" href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit"/>
+<link rel="edit" title="Seite bearbeiten" href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (de)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//de.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr capitalize-all-nouns mw-hide-empty-elt ns-0 ns-subject mw-editable page-Liste_der_größten_Städte_der_Welt_historisch rootpage-Liste_der_größten_Städte_der_Welt_historisch skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="de">Liste der größten Städte der Welt (historisch)</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">aus Wikipedia, der freien Enzyklopädie</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Zur Navigation springen</a>
+		<a class="mw-jump-link" href="#searchInput">Zur Suche springen</a>
+		<div id="mw-content-text" lang="de" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Die <b>Liste der größten Städte der Welt (historisch)</b> bietet einen Überblick über die Einwohnerzahl der größten städtischen <a href="/wiki/Agglomeration" title="Agglomeration">Agglomerationen</a> der Welt zu einem bestimmten Zeitpunkt in der Geschichte. Die Städte sind mit ihrem Namen in der jeweiligen Epoche aufgeführt. Angegeben ist auch das zeitgenössische Staatsgebilde, in dem die Stadt zum Zeitpunkt der Statistik lag.
+</p><p>Anzumerken ist, dass es sich bei den Zahlen meist um <i>Schätzungen</i> einzelner Forscher handelt, die unter Umständen auch extrem variieren können.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="de" dir="ltr"><h2 id="mw-toc-heading">Inhaltsverzeichnis</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Größte_Städte_der_Welt_um_das_Jahr_100"><span class="tocnumber">1</span> <span class="toctext">Größte Städte der Welt um das Jahr 100</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Größte_Städte_der_Welt_um_das_Jahr_1000"><span class="tocnumber">2</span> <span class="toctext">Größte Städte der Welt um das Jahr 1000</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Größte_Städte_der_Welt_um_das_Jahr_1500"><span class="tocnumber">3</span> <span class="toctext">Größte Städte der Welt um das Jahr 1500</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Größte_Städte_der_Welt_um_das_Jahr_1870"><span class="tocnumber">4</span> <span class="toctext">Größte Städte der Welt um das Jahr 1870</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Größte_Städte_der_Welt_um_das_Jahr_1910"><span class="tocnumber">5</span> <span class="toctext">Größte Städte der Welt um das Jahr 1910</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Größte_Städte_der_Welt_um_das_Jahr_1950"><span class="tocnumber">6</span> <span class="toctext">Größte Städte der Welt um das Jahr 1950</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Siehe_auch"><span class="tocnumber">7</span> <span class="toctext">Siehe auch</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Literatur"><span class="tocnumber">8</span> <span class="toctext">Literatur</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Einzelbelege"><span class="tocnumber">9</span> <span class="toctext">Einzelbelege</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Gr.C3.B6.C3.9Fte_St.C3.A4dte_der_Welt_um_das_Jahr_100"></span><span class="mw-headline" id="Größte_Städte_der_Welt_um_das_Jahr_100">Größte Städte der Welt um das Jahr 100</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 100">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit&amp;section=1" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 100">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable zebra" width="60%">
+
+<tbody><tr>
+<th colspan="6" class="hintergrundfarbe8">Metropolregionen
+</th></tr>
+<tr>
+<th width="10%">Rang</th>
+<th width="30%">Name</th>
+<th width="30%">Region</th>
+<th width="20%">Einwohner</th>
+<th width="10%" class="unsortable">Quelle
+</th></tr>
+<tr>
+<td>1.</td>
+<td><a href="/wiki/Rom" title="Rom">Rom</a></td>
+<td><a href="/wiki/R%C3%B6misches_Reich" title="Römisches Reich">Römisches Reich</a> (<a href="/wiki/Italien" title="Italien">Italien</a>)</td>
+<td align="right">1.000.000</td>
+<td><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</td></tr>
+<tr>
+<td>2.</td>
+<td><a href="/wiki/Alexandria" title="Alexandria">Alexandria</a></td>
+<td><a href="/wiki/R%C3%B6misches_Reich" title="Römisches Reich">Römisches Reich</a> (<a href="/wiki/Aegyptus" title="Aegyptus">Aegyptus</a>)</td>
+<td align="right">600.000</td>
+<td><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>3.</td>
+<td><a href="/wiki/Antiochia_am_Orontes" title="Antiochia am Orontes">Antiochia</a></td>
+<td><a href="/wiki/R%C3%B6misches_Reich" title="Römisches Reich">Römisches Reich</a> (<a href="/wiki/Syria" title="Syria">Syria</a>)</td>
+<td align="right">500.000</td>
+<td><sup id="cite_ref-Golvin2005_3-0" class="reference"><a href="#cite_note-Golvin2005-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td>4.</td>
+<td><a href="/wiki/Luoyang" title="Luoyang">Luoyang</a></td>
+<td><a href="/wiki/China" title="China">China</a></td>
+<td align="right">400.000</td>
+<td><sup id="cite_ref-Modelski2003_4-0" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>5.</td>
+<td><a href="/wiki/Karthago" title="Karthago">Karthago</a></td>
+<td><a href="/wiki/R%C3%B6misches_Reich" title="Römisches Reich">Römisches Reich</a> (<a href="/wiki/Africa" title="Africa">Africa</a>)</td>
+<td align="right">300.000</td>
+<td><sup id="cite_ref-Golvin2005_3-1" class="reference"><a href="#cite_note-Golvin2005-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td>6.</td>
+<td><a href="/wiki/Seleukia-Ktesiphon" title="Seleukia-Ktesiphon">Seleukia-Ktesiphon</a></td>
+<td><a href="/wiki/Parther" title="Parther">Partherreich</a></td>
+<td align="right">300.000</td>
+<td><sup id="cite_ref-Modelski2003_4-1" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>7.</td>
+<td><a href="/wiki/Korinth_(antike_Stadt)" title="Korinth (antike Stadt)">Korinth</a></td>
+<td><a href="/wiki/R%C3%B6misches_Reich" title="Römisches Reich">Römisches Reich</a> (<a href="/wiki/Achaea" title="Achaea">Achaea</a>)</td>
+<td align="right">250.000</td>
+<td><sup id="cite_ref-Modelski2003_4-2" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>8.</td>
+<td><a href="/wiki/Ephesos" title="Ephesos">Ephesos</a></td>
+<td><a href="/wiki/R%C3%B6misches_Reich" title="Römisches Reich">Römisches Reich</a> (<a href="/wiki/Asia_(Provinz)" title="Asia (Provinz)">Asia</a>)</td>
+<td align="right">200.000</td>
+<td><sup id="cite_ref-Golvin2005_3-2" class="reference"><a href="#cite_note-Golvin2005-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td>9.</td>
+<td><a href="/wiki/Anuradhapura" title="Anuradhapura">Anuradhapura</a></td>
+<td><a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a></td>
+<td align="right">130.000</td>
+<td><sup id="cite_ref-Modelski2003_4-3" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>10.</td>
+<td><a href="/wiki/Athen" title="Athen">Athen</a></td>
+<td><a href="/wiki/R%C3%B6misches_Reich" title="Römisches Reich">Römisches Reich</a> (<a href="/wiki/Achaea" title="Achaea">Achaea</a>)</td>
+<td align="right">120.000</td>
+<td>
+</td></tr>
+<tr>
+<td>11.</td>
+<td><a href="/wiki/Peschawar" title="Peschawar">Peschawar</a></td>
+<td><a href="/wiki/Kuschana" title="Kuschana">Kuschana</a></td>
+<td align="right">120.000</td>
+<td><sup id="cite_ref-Modelski2003_4-4" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>12.</td>
+<td><a href="/wiki/Santa_Maria_Capua_Vetere" title="Santa Maria Capua Vetere">Capua</a></td>
+<td><a href="/wiki/R%C3%B6misches_Reich" title="Römisches Reich">Römisches Reich</a> (<a href="/wiki/Italien" title="Italien">Italien</a>)</td>
+<td align="right">100.000</td>
+<td><sup id="cite_ref-Modelski2003_4-5" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>13.</td>
+<td><a href="/wiki/Pergamon" title="Pergamon">Pergamon</a></td>
+<td><a href="/wiki/R%C3%B6misches_Reich" title="Römisches Reich">Römisches Reich</a> (<a href="/wiki/Asia_(Provinz)" title="Asia (Provinz)">Asia</a>)</td>
+<td align="right">100.000</td>
+<td><sup id="cite_ref-Modelski2003_4-6" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>14.</td>
+<td><a href="/wiki/Caesarea_Maritima" title="Caesarea Maritima">Caesarea Maritima</a></td>
+<td><a href="/wiki/R%C3%B6misches_Reich" title="Römisches Reich">Römisches Reich</a> (<a href="/wiki/Jud%C3%A4a" title="Judäa">Judäa</a>)</td>
+<td align="right">100.000</td>
+<td><sup id="cite_ref-Modelski2003_4-7" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>15.</td>
+<td><a href="/wiki/Aquileia" title="Aquileia">Aquileia</a></td>
+<td><a href="/wiki/R%C3%B6misches_Reich" title="Römisches Reich">Römisches Reich</a> (<a href="/wiki/Italien" title="Italien">Italien</a>)</td>
+<td align="right">100.000</td>
+<td><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</td></tr></tbody></table>
+<p>Weitere große Städte:
+</p>
+<ul><li>Die römisch-germanische Stadt <a href="/wiki/Augusta_Treverorum" title="Augusta Treverorum">Augusta Treverorum</a>, das spätere <a href="/wiki/Trier" title="Trier">Trier</a>, hatte im Jahr 100 etwa 30.000 <a href="/wiki/Einwohnerentwicklung_von_Trier" title="Einwohnerentwicklung von Trier">Einwohner</a> und galt damit als Weltstadt. Im Jahr 300 lebten bereits 80.000 Menschen in der Stadt.</li>
+<li>Das <a href="/w/index.php?title=Mirador-Becken&amp;action=edit&amp;redlink=1" class="new" title="Mirador-Becken (Seite nicht vorhanden)">Mirador-Becken</a> (<a href="/wiki/Guatemala" title="Guatemala">Guatemala</a>, <a href="/wiki/Departamento_Pet%C3%A9n" title="Departamento Petén">Petén</a>) mit den Städten <a href="/wiki/El_Mirador" title="El Mirador">El Mirador</a> (höchste Bevölkerung zw. 300 v. Chr. und 100 n. Chr. wird auf 50.000 bis 200.000 geschätzt), <a href="/wiki/Calakmul" title="Calakmul">Calakmul</a>, <a href="/wiki/Nakbe" class="mw-redirect" title="Nakbe">Nakbe</a>, <a href="/w/index.php?title=El_Tintal&amp;action=edit&amp;redlink=1" class="new" title="El Tintal (Seite nicht vorhanden)">El Tintal</a> und weiteren.</li>
+<li><a href="/wiki/Teotihuac%C3%A1n" title="Teotihuacán">Teotihuacán</a> im späteren Mexiko hatte zwischen 200 und 650 bis zu 200.000 Einwohner.</li>
+<li><a href="/wiki/Tikal" title="Tikal">Tikal</a> (Höhepunkt im 8. Jahrhundert mit bis zu 200.000 Menschen)</li>
+<li><a href="/wiki/Xi%E2%80%99an" title="Xi’an">Xi’an</a> in China hatte zur Zeitenwende 240.000 und zwischen 618 und 907 etwa 1 Mio. Einwohner</li></ul>
+<h2><span id="Gr.C3.B6.C3.9Fte_St.C3.A4dte_der_Welt_um_das_Jahr_1000"></span><span class="mw-headline" id="Größte_Städte_der_Welt_um_das_Jahr_1000">Größte Städte der Welt um das Jahr 1000</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 1000">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit&amp;section=2" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 1000">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable zebra" width="60%">
+
+<tbody><tr>
+<th colspan="6" class="hintergrundfarbe8">Metropolregionen
+</th></tr>
+<tr>
+<th width="10%">Rang</th>
+<th width="30%">Name</th>
+<th width="30%">Region</th>
+<th width="20%">Einwohner</th>
+<th width="10%" class="unsortable">Quelle
+</th></tr>
+<tr>
+<td>1.</td>
+<td><a href="/wiki/Angkor" title="Angkor">Angkor</a></td>
+<td><a href="/wiki/Kambodscha" title="Kambodscha">Kambodscha</a></td>
+<td align="right">1.000.000</td>
+<td>
+</td></tr>
+<tr>
+<td>2.</td>
+<td><a href="/wiki/Kaifeng" title="Kaifeng">Kaifeng</a></td>
+<td><a href="/wiki/China" title="China">China</a></td>
+<td align="right">500.000</td>
+<td><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<td>3.</td>
+<td><a href="/wiki/Konstantinopel" title="Konstantinopel">Konstantinopel</a></td>
+<td><a href="/wiki/Byzantinisches_Reich" title="Byzantinisches Reich">Byzanz</a></td>
+<td align="right">430.000</td>
+<td><sup id="cite_ref-Modelski2003_4-8" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>4.</td>
+<td><a href="/wiki/Ky%C5%8Dto" title="Kyōto">Kyōto</a></td>
+<td><a href="/wiki/Japan" title="Japan">Japan</a></td>
+<td align="right">175.000</td>
+<td>
+</td></tr>
+<tr>
+<td>5.</td>
+<td><a href="/wiki/Kairo" title="Kairo">Kairo</a></td>
+<td><a href="/wiki/%C3%84gypten" title="Ägypten">Ägypten</a></td>
+<td align="right">135.000</td>
+<td>
+</td></tr>
+<tr>
+<td>6.</td>
+<td><a href="/wiki/Bagdad" title="Bagdad">Bagdad</a></td>
+<td><a href="/wiki/Irak" title="Irak">Irak</a></td>
+<td align="right">125.000</td>
+<td>
+</td></tr>
+<tr>
+<td>7.</td>
+<td><a href="/wiki/Nischapur" title="Nischapur">Neyshabur</a></td>
+<td><a href="/wiki/Perserreich" title="Perserreich">Persien</a></td>
+<td align="right">125.000</td>
+<td>
+</td></tr>
+<tr>
+<td>8.</td>
+<td><a href="/wiki/C%C3%B3rdoba_(Spanien)" title="Córdoba (Spanien)">Córdoba</a></td>
+<td><a href="/wiki/Kalifat_von_C%C3%B3rdoba" title="Kalifat von Córdoba">Kalifat von Córdoba</a></td>
+<td align="right">110.000</td>
+<td><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td>9.</td>
+<td><a href="/wiki/Al-Hasa" title="Al-Hasa">Al-Hasa</a></td>
+<td><a href="/wiki/Arabische_Halbinsel" title="Arabische Halbinsel">Arabien</a></td>
+<td align="right">110.000</td>
+<td>
+</td></tr>
+<tr>
+<td>10.</td>
+<td><a href="/wiki/Lalitpur_(Nepal)" title="Lalitpur (Nepal)">Patan</a></td>
+<td><a href="/wiki/Nepal" title="Nepal">Nepal</a></td>
+<td align="right">100.000</td>
+<td>
+</td></tr></tbody></table>
+<h2><span id="Gr.C3.B6.C3.9Fte_St.C3.A4dte_der_Welt_um_das_Jahr_1500"></span><span class="mw-headline" id="Größte_Städte_der_Welt_um_das_Jahr_1500">Größte Städte der Welt um das Jahr 1500</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 1500">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit&amp;section=3" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 1500">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable zebra" width="60%">
+
+<tbody><tr>
+<th colspan="6" class="hintergrundfarbe8">Metropolregionen
+</th></tr>
+<tr>
+<th width="10%">Rang</th>
+<th width="30%">Name</th>
+<th width="30%">Region</th>
+<th width="20%">Einwohner</th>
+<th width="10%" class="unsortable">Quelle
+</th></tr>
+<tr>
+<td>1.</td>
+<td><a href="/wiki/Peking" title="Peking">Peking</a></td>
+<td><a href="/wiki/China" title="China">China</a></td>
+<td align="right">670.000</td>
+<td><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td>2.</td>
+<td><a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>/<a href="/wiki/Konstantinopel" title="Konstantinopel">Konstantinopel</a></td>
+<td><a href="/wiki/Osmanisches_Reich" title="Osmanisches Reich">Osmanisches Reich</a></td>
+<td align="right">550.000</td>
+<td>
+</td></tr>
+<tr>
+<td>3.</td>
+<td><a href="/wiki/Vijayanagar" title="Vijayanagar">Vijayanagar</a></td>
+<td><a href="/wiki/Indien" title="Indien">Indien</a></td>
+<td align="right">500.000</td>
+<td>
+</td></tr>
+<tr>
+<td>4.</td>
+<td><a href="/wiki/Kairo" title="Kairo">Kairo</a></td>
+<td><a href="/wiki/Mamluken" title="Mamluken">Mamlukenreich</a></td>
+<td align="right">400.000</td>
+<td>
+</td></tr>
+<tr>
+<td>5.</td>
+<td><a href="/wiki/Paris" title="Paris">Paris</a></td>
+<td><a href="/wiki/Frankreich" title="Frankreich">Frankreich</a></td>
+<td align="right">300.000</td>
+<td>
+</td></tr>
+<tr>
+<td>6.</td>
+<td><a href="/wiki/Hangzhou" title="Hangzhou">Hangzhou</a></td>
+<td><a href="/wiki/China" title="China">China</a></td>
+<td align="right">250.000</td>
+<td>
+</td></tr>
+<tr>
+<td>7.</td>
+<td><a href="/wiki/T%C3%A4bris" title="Täbris">Täbriz</a></td>
+<td><a href="/wiki/Iran" title="Iran">Persien</a></td>
+<td align="right">250.000</td>
+<td>
+</td></tr>
+<tr>
+<td>8.</td>
+<td><a href="/wiki/Venedig" title="Venedig">Venedig</a></td>
+<td><a href="/wiki/Republik_Venedig" title="Republik Venedig">Republik Venedig</a></td>
+<td align="right">200.000</td>
+<td><sup id="cite_ref-Modelski2003_4-9" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>9.</td>
+<td><a href="/wiki/Tenochtitl%C3%A1n" class="mw-redirect" title="Tenochtitlán">Tenochtitlán</a></td>
+<td><a href="/wiki/Aztekenreich" title="Aztekenreich">Aztekenreich</a></td>
+<td align="right">200.000</td>
+<td><sup id="cite_ref-Modelski2003_4-10" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>10.</td>
+<td><a href="/wiki/Neapel" title="Neapel">Neapel</a></td>
+<td><a href="/wiki/K%C3%B6nigreich_Neapel" title="Königreich Neapel">Königreich Neapel</a></td>
+<td align="right">150.000</td>
+<td>
+</td></tr>
+<tr>
+<td>11.</td>
+<td><a href="/wiki/Guangzhou" title="Guangzhou">Guangzhou</a></td>
+<td><a href="/wiki/China" title="China">China</a></td>
+<td align="right">150.000</td>
+<td>
+</td></tr>
+<tr>
+<td>12.</td>
+<td><a href="/wiki/Nanjing" title="Nanjing">Nanjing</a></td>
+<td><a href="/wiki/China" title="China">China</a></td>
+<td align="right">147.000</td>
+<td>
+</td></tr>
+<tr>
+<td>13.</td>
+<td><a href="/wiki/London" title="London">London</a></td>
+<td><a href="/wiki/England" title="England">England</a></td>
+<td align="right">125.000</td>
+<td><sup id="cite_ref-Modelski2003_4-11" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>14.</td>
+<td><a href="/wiki/Mailand" title="Mailand">Mailand</a></td>
+<td><a href="/wiki/Herzogtum_Mailand" title="Herzogtum Mailand">Herzogtum Mailand</a></td>
+<td align="right">100.000</td>
+<td><sup id="cite_ref-Modelski2003_4-12" class="reference"><a href="#cite_note-Modelski2003-4">&#91;4&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span id="Gr.C3.B6.C3.9Fte_St.C3.A4dte_der_Welt_um_das_Jahr_1870"></span><span class="mw-headline" id="Größte_Städte_der_Welt_um_das_Jahr_1870">Größte Städte der Welt um das Jahr 1870</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 1870">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit&amp;section=4" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 1870">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable zebra" width="60%">
+
+<tbody><tr>
+<th colspan="6" class="hintergrundfarbe8">Metropolregionen
+</th></tr>
+<tr>
+<th width="10%">Rang</th>
+<th width="30%">Name</th>
+<th width="30%">Region</th>
+<th width="20%">Einwohner</th>
+<th width="10%" class="unsortable">Jahr
+</th></tr>
+<tr>
+<td>1.</td>
+<td><a href="/wiki/London" title="London">London</a></td>
+<td><a href="/wiki/Vereinigtes_K%C3%B6nigreich" title="Vereinigtes Königreich">Vereinigtes Königreich</a></td>
+<td align="right">3.840.595</td>
+<td>1871
+</td></tr>
+<tr>
+<td>2.</td>
+<td><a href="/wiki/Paris" title="Paris">Paris</a></td>
+<td><a href="/wiki/Frankreich" title="Frankreich">Frankreich</a></td>
+<td align="right">≈2.300.000</td>
+<td>1870
+</td></tr>
+<tr>
+<td>3.</td>
+<td><a href="/wiki/New_York_City" title="New York City">New York City</a></td>
+<td><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></td>
+<td align="right">1.469.045</td>
+<td>1870
+</td></tr>
+<tr>
+<td>4.</td>
+<td><a href="/wiki/Wien" title="Wien">Wien</a></td>
+<td><a href="/wiki/%C3%96sterreich-Ungarn" title="Österreich-Ungarn">Österreich-Ungarn</a></td>
+<td align="right">900.998</td>
+<td>1869
+</td></tr>
+<tr>
+<td>5.</td>
+<td><a href="/wiki/Peking" title="Peking">Peking</a></td>
+<td><a href="/wiki/Kaiserreich_China" title="Kaiserreich China">Kaiserreich China</a></td>
+<td align="right">≈875.000</td>
+<td>1870
+</td></tr>
+<tr>
+<td>6.</td>
+<td><a href="/wiki/St._Petersburg" class="mw-redirect" title="St. Petersburg">St. Petersburg</a></td>
+<td><a href="/wiki/Russisches_Reich_1721_bis_1917" class="mw-redirect" title="Russisches Reich 1721 bis 1917">Russisches Reich</a></td>
+<td align="right">842.900</td>
+<td>1873
+</td></tr>
+<tr>
+<td>7.</td>
+<td><a href="/wiki/Berlin" title="Berlin">Berlin</a></td>
+<td><a href="/wiki/Preu%C3%9Fen" title="Preußen">Preußen</a></td>
+<td align="right">826.341</td>
+<td>1871
+</td></tr>
+<tr>
+<td>8.</td>
+<td><a href="/wiki/Istanbul" title="Istanbul">Istanbul</a></td>
+<td><a href="/wiki/Osmanisches_Reich" title="Osmanisches Reich">Osmanisches Reich</a></td>
+<td align="right">≈800.000</td>
+<td>≈1870
+</td></tr>
+<tr>
+<td>9.</td>
+<td><a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a></td>
+<td><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></td>
+<td align="right">674.022</td>
+<td>1870
+</td></tr>
+<tr>
+<td>10.</td>
+<td><a href="/wiki/Bombay" class="mw-redirect" title="Bombay">Bombay</a></td>
+<td><a href="/wiki/Britisch-Indien" title="Britisch-Indien">Britisch-Indien</a></td>
+<td align="right">644.605</td>
+<td>1872
+</td></tr>
+<tr>
+<td>11.</td>
+<td><a href="/wiki/Moskau" title="Moskau">Moskau</a></td>
+<td>Russisches Reich</td>
+<td align="right">601.969</td>
+<td>1871
+</td></tr>
+<tr>
+<td>12.</td>
+<td><a href="/wiki/Tokio" title="Tokio">Tokio</a></td>
+<td><a href="/wiki/Kaiserreich_Japan" class="mw-redirect" title="Kaiserreich Japan">Kaiserreich Japan</a></td>
+<td align="right">595.900</td>
+<td>1872
+</td></tr></tbody></table>
+<h2><span id="Gr.C3.B6.C3.9Fte_St.C3.A4dte_der_Welt_um_das_Jahr_1910"></span><span class="mw-headline" id="Größte_Städte_der_Welt_um_das_Jahr_1910">Größte Städte der Welt um das Jahr 1910</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 1910">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit&amp;section=5" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 1910">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable zebra" width="60%">
+
+<tbody><tr>
+<th colspan="6" class="hintergrundfarbe8">Kernstädte
+</th></tr>
+<tr>
+<th width="10%">Rang</th>
+<th width="30%">Name</th>
+<th width="30%">Region</th>
+<th width="20%">Einwohner</th>
+<th width="10%">Stand
+</th></tr>
+<tr>
+<td>1.</td>
+<td><a href="/wiki/London" title="London">London</a></td>
+<td><a href="/wiki/Vereinigtes_K%C3%B6nigreich" title="Vereinigtes Königreich">Vereinigtes Königreich</a></td>
+<td align="right">7.160.441</td>
+<td>1911
+</td></tr>
+<tr>
+<td>2.</td>
+<td><a href="/wiki/New_York_City" title="New York City">New York City</a></td>
+<td><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></td>
+<td align="right">4.766.883</td>
+<td>1910
+</td></tr>
+<tr>
+<td>3.</td>
+<td><a href="/wiki/Paris" title="Paris">Paris</a></td>
+<td><a href="/wiki/Frankreich" title="Frankreich">Frankreich</a></td>
+<td align="right">2.888.110</td>
+<td>1911
+</td></tr>
+<tr>
+<td>4.</td>
+<td><a href="/wiki/Chicago" title="Chicago">Chicago</a></td>
+<td><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></td>
+<td align="right">2.185.283</td>
+<td>1910
+</td></tr>
+<tr>
+<td>5.</td>
+<td><a href="/wiki/Wien" title="Wien">Wien</a></td>
+<td><a href="/wiki/%C3%96sterreich-Ungarn" title="Österreich-Ungarn">Österreich-Ungarn</a></td>
+<td align="right">2.083.630</td>
+<td>1910<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td>6.</td>
+<td><a href="/wiki/Berlin" title="Berlin">Berlin</a></td>
+<td><a href="/wiki/Deutsches_Kaiserreich" title="Deutsches Kaiserreich">Deutsches Kaiserreich</a></td>
+<td align="right">2.071.257</td>
+<td>1910
+</td></tr>
+<tr>
+<td>7.</td>
+<td><a href="/wiki/Tokio" title="Tokio">Tokio</a></td>
+<td><a href="/wiki/Japanisches_Kaiserreich" title="Japanisches Kaiserreich">Japanisches Reich</a></td>
+<td align="right">2.050.100</td>
+<td>1914
+</td></tr>
+<tr>
+<td>8.</td>
+<td><a href="/wiki/Sankt_Petersburg" title="Sankt Petersburg">Sankt Petersburg</a></td>
+<td><a href="/wiki/Russisches_Kaiserreich" title="Russisches Kaiserreich">Russisches Kaiserreich</a></td>
+<td align="right">1.962.000</td>
+<td>1910
+</td></tr>
+<tr>
+<td>9.</td>
+<td><a href="/wiki/Moskau" title="Moskau">Moskau</a></td>
+<td><a href="/wiki/Russisches_Kaiserreich" title="Russisches Kaiserreich">Russisches Kaiserreich</a></td>
+<td align="right">1.617.157</td>
+<td>1912
+</td></tr>
+<tr>
+<td>10.</td>
+<td><a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a></td>
+<td><a href="/wiki/Argentinien" title="Argentinien">Argentinien</a></td>
+<td align="right">1.582.884</td>
+<td>1914
+</td></tr>
+<tr>
+<td>11.</td>
+<td><a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a></td>
+<td><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></td>
+<td align="right">1.549.008</td>
+<td>1910
+</td></tr>
+<tr>
+<td>12.</td>
+<td><a href="/wiki/Mumbai" title="Mumbai">Bombay</a></td>
+<td><a href="/wiki/Britisch-Indien" title="Britisch-Indien">Britisch-Indien</a></td>
+<td align="right">1.018.388</td>
+<td>1911
+</td></tr>
+<tr>
+<td>13.</td>
+<td><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></td>
+<td><a href="/wiki/Deutsches_Kaiserreich" title="Deutsches Kaiserreich">Deutsches Kaiserreich</a></td>
+<td align="right">931.035</td>
+<td>1910
+</td></tr>
+<tr>
+<td>14.</td>
+<td><a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>/<a href="/wiki/Konstantinopel" title="Konstantinopel">Konstantinopel</a></td>
+<td><a href="/wiki/Osmanisches_Reich" title="Osmanisches Reich">Osmanisches Reich</a></td>
+<td align="right">909.978</td>
+<td>1914
+</td></tr>
+<tr>
+<td>15.</td>
+<td><a href="/wiki/Budapest" title="Budapest">Budapest</a></td>
+<td><a href="/wiki/%C3%96sterreich-Ungarn" title="Österreich-Ungarn">Österreich-Ungarn</a></td>
+<td align="right">880.371</td>
+<td>1910
+</td></tr>
+<tr>
+<td>16.</td>
+<td><a href="/wiki/Shanghai" title="Shanghai">Shanghai</a></td>
+<td><a href="/wiki/China" title="China">China</a></td>
+<td align="right">832.500</td>
+<td>1910
+</td></tr></tbody></table>
+<h2><span id="Gr.C3.B6.C3.9Fte_St.C3.A4dte_der_Welt_um_das_Jahr_1950"></span><span class="mw-headline" id="Größte_Städte_der_Welt_um_das_Jahr_1950">Größte Städte der Welt um das Jahr 1950</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 1950">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit&amp;section=6" title="Abschnitt bearbeiten: Größte Städte der Welt um das Jahr 1950">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable zebra" width="60%">
+
+<tbody><tr>
+<th colspan="6" class="hintergrundfarbe8">Urbane Agglomerationen
+</th></tr>
+<tr>
+<th width="10%">Rang</th>
+<th width="30%">Name</th>
+<th width="30%">Region</th>
+<th width="20%">Einwohner</th>
+<th width="10%">Stand
+</th></tr>
+<tr>
+<td>1.</td>
+<td><a href="/wiki/New_York_City" title="New York City">New York City</a></td>
+<td><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></td>
+<td align="right">12.338.470</td>
+<td>1950<sup id="cite_ref-:0_10-0" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>2.</td>
+<td><a href="/wiki/Tokio" title="Tokio">Tokio</a></td>
+<td><a href="/wiki/Japan" title="Japan">Japan</a></td>
+<td align="right">11.274.641</td>
+<td>1950<sup id="cite_ref-:0_10-1" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>3.</td>
+<td><a href="/wiki/London" title="London">London</a></td>
+<td><a href="/wiki/Vereinigtes_K%C3%B6nigreich" title="Vereinigtes Königreich">Vereinigtes Königreich</a></td>
+<td align="right">8.360.847</td>
+<td>1950<sup id="cite_ref-:0_10-2" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>4.</td>
+<td><a href="/wiki/Osaka" title="Osaka">Osaka</a>-<a href="/wiki/K%C5%8Dbe" title="Kōbe">Kōbe</a>-<a href="/wiki/Ky%C5%8Dto" title="Kyōto">Kyōto</a></td>
+<td><a href="/wiki/Japan" title="Japan">Japan</a></td>
+<td align="right">7.005.284</td>
+<td>1950<sup id="cite_ref-:0_10-3" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>5.</td>
+<td><a href="/wiki/Paris" title="Paris">Paris</a></td>
+<td><a href="/wiki/Frankreich" title="Frankreich">Frankreich</a></td>
+<td align="right">6.283.018</td>
+<td>1950<sup id="cite_ref-:0_10-4" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>6.</td>
+<td><a href="/wiki/Moskau" title="Moskau">Moskau</a></td>
+<td><a href="/wiki/Sowjetunion" title="Sowjetunion">Sowjetunion</a></td>
+<td align="right">5.356.392</td>
+<td>1950<sup id="cite_ref-:0_10-5" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>7.</td>
+<td><a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a></td>
+<td><a href="/wiki/Argentinien" title="Argentinien">Argentinien</a></td>
+<td align="right">5.097.612</td>
+<td>1950<sup id="cite_ref-:0_10-6" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>8.</td>
+<td><a href="/wiki/Chicago" title="Chicago">Chicago</a></td>
+<td><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></td>
+<td align="right">4.999.060</td>
+<td>1950<sup id="cite_ref-:0_10-7" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>9.</td>
+<td><a href="/wiki/Kalkutta" title="Kalkutta">Kalkutta</a></td>
+<td><a href="/wiki/Indien" title="Indien">Indien</a></td>
+<td align="right">4.513.496</td>
+<td>1950<sup id="cite_ref-:0_10-8" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>10.</td>
+<td><a href="/wiki/Shanghai" title="Shanghai">Shanghai</a></td>
+<td><a href="/wiki/China" title="China">China</a></td>
+<td align="right">4.300.942</td>
+<td>1950<sup id="cite_ref-:0_10-9" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>11.</td>
+<td><a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a></td>
+<td><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></td>
+<td align="right">4.045.514</td>
+<td>1950<sup id="cite_ref-:0_10-10" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>12.</td>
+<td><a href="/wiki/Mexiko-Stadt" title="Mexiko-Stadt">Mexiko-Stadt</a></td>
+<td><a href="/wiki/Mexiko" title="Mexiko">Mexiko</a></td>
+<td align="right">3.365.081</td>
+<td>1950<sup id="cite_ref-:0_10-11" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>13.</td>
+<td><a href="/wiki/Berlin" title="Berlin">Berlin</a></td>
+<td><a href="/wiki/Deutschland" title="Deutschland">Deutschland</a></td>
+<td align="right">3.337.621</td>
+<td>1950<sup id="cite_ref-:0_10-12" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>14.</td>
+<td><a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a></td>
+<td><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></td>
+<td align="right">3.127.806</td>
+<td>1950<sup id="cite_ref-:0_10-13" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>15.</td>
+<td><a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a></td>
+<td><a href="/wiki/Brasilien" title="Brasilien">Brasilien</a></td>
+<td align="right">3.026.195</td>
+<td>1950<sup id="cite_ref-:0_10-14" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.</td>
+<td><a href="/wiki/Leningrad" class="mw-redirect" title="Leningrad">Leningrad</a></td>
+<td><a href="/wiki/Sowjetunion" title="Sowjetunion">Sowjetunion</a></td>
+<td align="right">2.902.789</td>
+<td>1950<sup id="cite_ref-:0_10-15" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>17.</td>
+<td><a href="/wiki/Mumbai" title="Mumbai">Bombay</a></td>
+<td><a href="/wiki/Indien" title="Indien">Indien</a></td>
+<td align="right">2.857.359</td>
+<td>1950<sup id="cite_ref-:0_10-16" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>18.</td>
+<td><a href="/wiki/Detroit" title="Detroit">Detroit</a></td>
+<td><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></td>
+<td align="right">2.769.254</td>
+<td>1950<sup id="cite_ref-:0_10-17" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>19.</td>
+<td><a href="/wiki/Boston" title="Boston">Boston</a></td>
+<td><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></td>
+<td align="right">2.550.818</td>
+<td>1950<sup id="cite_ref-:0_10-18" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>20.</td>
+<td><a href="/wiki/Kairo" title="Kairo">Kairo</a></td>
+<td><a href="/wiki/%C3%84gypten" title="Ägypten">Ägypten</a></td>
+<td align="right">2.493.514</td>
+<td>1950<sup id="cite_ref-:0_10-19" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Siehe_auch">Siehe auch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Siehe auch">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit&amp;section=7" title="Abschnitt bearbeiten: Siehe auch">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Liste_der_gr%C3%B6%C3%9Ften_deutschen_St%C3%A4dte" title="Liste der größten deutschen Städte">Liste der größten deutschen Städte</a> (historisch)</li>
+<li><a href="/wiki/Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte" title="Liste der größten Städte">Liste der größten Städte</a></li>
+<li><a href="/wiki/Liste_der_gr%C3%B6%C3%9Ften_Metropolregionen_der_Welt" title="Liste der größten Metropolregionen der Welt">Liste der größten Metropolregionen der Welt</a></li>
+<li><a href="/wiki/Liste_der_Millionenst%C3%A4dte" title="Liste der Millionenstädte">Liste der Millionenstädte</a></li></ul>
+<h2><span class="mw-headline" id="Literatur">Literatur</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Literatur">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit&amp;section=8" title="Abschnitt bearbeiten: Literatur">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Tertius Chandler: <i>Four Thousand Years of Urban Growth. An Historical Census</i>, Lewingston (NY) 1987. <a href="/wiki/Spezial:ISBN-Suche/0889462070" class="internal mw-magiclink-isbn">ISBN 0-88946-207-0</a></li>
+<li>Jean-Claude Golvin: <i>Metropolen der Antike</i>, Theiss-Verlag, Stuttgart 2005.</li>
+<li>George Modelski: <i>World Cities: -3000 to 2000</i>, Faros 2000, Washington 2003.</li>
+<li>Alfred Schinz: <i>The Magic Square: History of Chinese City Planning</i>, Axel Menges, Honolulu 1990.</li>
+<li><a rel="nofollow" class="external text" href="http://www.openhistory.net/">A Dynamic Map of the World Cities’ Growth</a></li></ul>
+<h2><span class="mw-headline" id="Einzelbelege">Einzelbelege</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Einzelbelege">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit&amp;section=9" title="Abschnitt bearbeiten: Einzelbelege">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Frank_Kolb" title="Frank Kolb">Frank Kolb</a>: <i>Rom. Die Geschichte der Stadt in der Antike</i>, München 1995, S. 453f</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Manfred_Clauss" title="Manfred Clauss">Manfred Clauss</a>: <i>Alexandria. Schicksale einer antiken Weltstadt.</i> Klett-Cotta, Stuttgart 2003</span>
+</li>
+<li id="cite_note-Golvin2005-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Golvin2005_3-0">a</a></sup> <sup><a href="#cite_ref-Golvin2005_3-1">b</a></sup> <sup><a href="#cite_ref-Golvin2005_3-2">c</a></sup></span> <span class="reference-text">Jean-Claude Golvin: <i>Metropolen der Antike</i>, Theiss-Verlag, Stuttgart 2005</span>
+</li>
+<li id="cite_note-Modelski2003-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Modelski2003_4-0">a</a></sup> <sup><a href="#cite_ref-Modelski2003_4-1">b</a></sup> <sup><a href="#cite_ref-Modelski2003_4-2">c</a></sup> <sup><a href="#cite_ref-Modelski2003_4-3">d</a></sup> <sup><a href="#cite_ref-Modelski2003_4-4">e</a></sup> <sup><a href="#cite_ref-Modelski2003_4-5">f</a></sup> <sup><a href="#cite_ref-Modelski2003_4-6">g</a></sup> <sup><a href="#cite_ref-Modelski2003_4-7">h</a></sup> <sup><a href="#cite_ref-Modelski2003_4-8">i</a></sup> <sup><a href="#cite_ref-Modelski2003_4-9">j</a></sup> <sup><a href="#cite_ref-Modelski2003_4-10">k</a></sup> <sup><a href="#cite_ref-Modelski2003_4-11">l</a></sup> <sup><a href="#cite_ref-Modelski2003_4-12">m</a></sup></span> <span class="reference-text">George Modelski: <i>World Cities: -3000 to 2000</i>, Faros 2000, Washington 2003</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Frank Kolb: <i>Die Stadt im Altertum</i>, München 2005</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Alfred Schinz: <i>The Magic Square: History of Chinese City Planning</i>, Axel Menges, Honolulu 1990</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Buringh, Eltjo (2010). Medieval Manuscript Production in the Latin West. Brill Publishers. <a href="/wiki/Spezial:ISBN-Suche/9789004175198" class="internal mw-magiclink-isbn">ISBN 978-9004175198</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Susan Naquin: <i>Peking Temples and City Life. 1400–1900.</i> University of California Press, Berkeley 2000</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vwl.tuwien.ac.at/hanappi/AgeSo/secReps/jahrbuch07.pdf"><i>Statistisches Jahrbuch der Stadt Wien</i></a><span style="display:none"><a rel="nofollow" class="external text" href="http://IABotdeadurl.invalid/https://www.vwl.tuwien.ac.at/hanappi/AgeSo/secReps/jahrbuch07.pdf">@1</a></span><span style="display:none"><a rel="nofollow" class="external text" href="https://www.vwl.tuwien.ac.at/hanappi/AgeSo/secReps/jahrbuch07.pdf">@2</a></span><span style="display:none"><a href="/w/index.php?title=Vorlage:Toter_Link/www.vwl.tuwien.ac.at&amp;action=edit&amp;redlink=1" class="new" title="Vorlage:Toter Link/www.vwl.tuwien.ac.at (Seite nicht vorhanden)">Vorlage:Toter Link/www.vwl.tuwien.ac.at</a></span>&#160;(<small><a href="/wiki/Wikipedia:Defekte_Weblinks" title="Wikipedia:Defekte Weblinks">Seite nicht mehr abrufbar</a>, Suche in</small> <a rel="nofollow" class="external text" href="http://timetravel.mementoweb.org/list/2010/https://www.vwl.tuwien.ac.at/hanappi/AgeSo/secReps/jahrbuch07.pdf">Webarchiven</a>)&#160;<small><span class="wp_boppel noviewer" aria-hidden="true" role="presentation"><img alt="i" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/15px-Pictogram_voting_info.svg.png" decoding="async" title="i" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/23px-Pictogram_voting_info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/30px-Pictogram_voting_info.svg.png 2x" data-file-width="250" data-file-height="250" /></span>&#160;<b>Info:</b> Der Link wurde automatisch als defekt markiert. Bitte prüfe den Link gemäß <a href="/wiki/Benutzer:InternetArchiveBot/Anleitung/Toter_Link" title="Benutzer:InternetArchiveBot/Anleitung/Toter Link">Anleitung</a> und entferne dann diesen Hinweis.</small>&#32; S. 62.</span>
+</li>
+<li id="cite_note-:0-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_10-0">a</a></sup> <sup><a href="#cite_ref-:0_10-1">b</a></sup> <sup><a href="#cite_ref-:0_10-2">c</a></sup> <sup><a href="#cite_ref-:0_10-3">d</a></sup> <sup><a href="#cite_ref-:0_10-4">e</a></sup> <sup><a href="#cite_ref-:0_10-5">f</a></sup> <sup><a href="#cite_ref-:0_10-6">g</a></sup> <sup><a href="#cite_ref-:0_10-7">h</a></sup> <sup><a href="#cite_ref-:0_10-8">i</a></sup> <sup><a href="#cite_ref-:0_10-9">j</a></sup> <sup><a href="#cite_ref-:0_10-10">k</a></sup> <sup><a href="#cite_ref-:0_10-11">l</a></sup> <sup><a href="#cite_ref-:0_10-12">m</a></sup> <sup><a href="#cite_ref-:0_10-13">n</a></sup> <sup><a href="#cite_ref-:0_10-14">o</a></sup> <sup><a href="#cite_ref-:0_10-15">p</a></sup> <sup><a href="#cite_ref-:0_10-16">q</a></sup> <sup><a href="#cite_ref-:0_10-17">r</a></sup> <sup><a href="#cite_ref-:0_10-18">s</a></sup> <sup><a href="#cite_ref-:0_10-19">t</a></sup></span> <span class="reference-text"><span class="cite"><a rel="nofollow" class="external text" href="https://esa.un.org/unpd/wup/CD-ROM/"><i>World Urbanization Prospects - Population Division - United Nations.</i></a><span class="Abrufdatum">&#32;Abgerufen am 29.&#160;Oktober 2017</span>.</span><span style="display: none;" class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rfr_id=info%3Asid%2Fde.wikipedia.org%3AListe+der+gr%C3%B6%C3%9Ften+St%C3%A4dte+der+Welt+%28historisch%29&amp;rft.title=World+Urbanization+Prospects+-+Population+Division+-+United+Nations&amp;rft.description=World+Urbanization+Prospects+-+Population+Division+-+United+Nations&amp;rft.identifier=https%3A%2F%2Fesa.un.org%2Funpd%2Fwup%2FCD-ROM%2F">&#160;</span></span>
+</li>
+</ol>
+<!-- 
+NewPP limit report
+Parsed by mw2375
+Cached time: 20201001182035
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.196 seconds
+Real time usage: 0.251 seconds
+Preprocessor visited node count: 857/1000000
+Post‐expand include size: 7349/2097152 bytes
+Template argument size: 1566/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10401/5000000 bytes
+Lua time usage: 0.030/10.000 seconds
+Lua memory usage: 1.9 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  121.769      1 -total
+ 57.72%   70.288      1 Vorlage:Internetquelle
+ 42.18%   51.362      1 Vorlage:Toter_Link
+ 17.61%   21.442      1 Vorlage:Booland
+ 14.98%   18.245      1 Vorlage:Str_len
+ 13.16%   16.023      1 Vorlage:Toter_Link/Core
+  6.42%    7.813      1 Vorlage:Toter_Link/archivebot
+  3.28%    3.998      1 Vorlage:Info
+-->
+
+<!-- Saved in parser cache with key dewiki:stable-pcache:idhash:767334-0!canonical and timestamp 20201001182035 and revision id 204048083
+ -->
+</div><noscript><img src="//de.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Abgerufen von „<a dir="ltr" href="https://de.wikipedia.org/w/index.php?title=Liste_der_größten_Städte_der_Welt_(historisch)&amp;oldid=204048083">https://de.wikipedia.org/w/index.php?title=Liste_der_größten_Städte_der_Welt_(historisch)&amp;oldid=204048083</a>“</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Wikipedia:Kategorien" title="Wikipedia:Kategorien">Kategorien</a>: <ul><li><a href="/wiki/Kategorie:Liste_(Orte)" title="Kategorie:Liste (Orte)">Liste (Orte)</a></li><li><a href="/wiki/Kategorie:Liste_(geographische_Rekorde)" title="Kategorie:Liste (geographische Rekorde)">Liste (geographische Rekorde)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Versteckte Kategorien: <ul><li><a href="/wiki/Kategorie:Wikipedia:Weblink_offline_IABot" title="Kategorie:Wikipedia:Weblink offline IABot">Wikipedia:Weblink offline IABot</a></li><li><a href="/wiki/Kategorie:Wikipedia:Defekte_Weblinks/Ungepr%C3%BCfte_Botmarkierungen_2019-04" title="Kategorie:Wikipedia:Defekte Weblinks/Ungeprüfte Botmarkierungen 2019-04">Wikipedia:Defekte Weblinks/Ungeprüfte Botmarkierungen 2019-04</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigationsmenü</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Meine Werkzeuge</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Nicht angemeldet</li><li id="pt-anontalk"><a href="/wiki/Spezial:Meine_Diskussionsseite" title="Diskussion über Änderungen von dieser IP-Adresse [n]" accesskey="n">Diskussionsseite</a></li><li id="pt-anoncontribs"><a href="/wiki/Spezial:Meine_Beitr%C3%A4ge" title="Eine Liste der Bearbeitungen, die von dieser IP-Adresse gemacht wurden [y]" accesskey="y">Beiträge</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Spezial:Benutzerkonto_anlegen&amp;returnto=Liste+der+gr%C3%B6%C3%9Ften+St%C3%A4dte+der+Welt+%28historisch%29" title="Wir ermutigen dich dazu, ein Benutzerkonto zu erstellen und dich anzumelden. Es ist jedoch nicht zwingend erforderlich.">Benutzerkonto erstellen</a></li><li id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Liste+der+gr%C3%B6%C3%9Ften+St%C3%A4dte+der+Welt+%28historisch%29" title="Anmelden ist zwar keine Pflicht, wird aber gerne gesehen. [o]" accesskey="o">Anmelden</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namensräume</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)" title="Seiteninhalt anzeigen [c]" accesskey="c">Artikel</a></li><li id="ca-talk"><a href="/wiki/Diskussion:Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)" rel="discussion" title="Diskussion zum Seiteninhalt [t]" accesskey="t">Diskussion</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Varianten</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Ansichten</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)">Lesen</a></li><li id="ca-ve-edit"><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;veaction=edit" title="Diese Seite mit dem VisualEditor bearbeiten [v]" accesskey="v">Bearbeiten</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=edit" title="Diese Seite bearbeiten [e]" accesskey="e">Quelltext bearbeiten</a></li><li id="ca-history"><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=history" title="Frühere Versionen dieser Seite [h]" accesskey="h">Versionsgeschichte</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Mehr</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Suche</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-moved">
+			<input type="search" name="search" placeholder="Wikipedia durchsuchen" title="Durchsuche die Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Spezial:Suche">
+			<input type="submit" name="fulltext" value="Suchen" title="Suche nach Seiten, die diesen Text enthalten" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Artikel" title="Gehe direkt zu der Seite mit genau diesem Namen, falls sie vorhanden ist." id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Hauptseite" class="mw-wiki-logo" href="/wiki/Wikipedia:Hauptseite"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Wikipedia:Hauptseite" title="Hauptseite besuchen [z]" accesskey="z">Hauptseite</a></li><li id="n-topics"><a href="/wiki/Portal:Wikipedia_nach_Themen">Themenportale</a></li><li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite aufrufen [x]" accesskey="x">Zufälliger Artikel</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-Mitmachen" class="vector-menu vector-menu-portal portal" aria-labelledby="p-Mitmachen-label" role="navigation" 
+	 >
+	<h3 id="p-Mitmachen-label">
+		<span>Mitmachen</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-Artikel-verbessern"><a href="/wiki/Wikipedia:Beteiligen">Artikel verbessern</a></li><li id="n-Neuerartikel"><a href="/wiki/Hilfe:Neuen_Artikel_anlegen">Neuen Artikel anlegen</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Autorenportal" title="Info-Zentrum über Beteiligungsmöglichkeiten">Autorenportal</a></li><li id="n-help"><a href="/wiki/Hilfe:%C3%9Cbersicht" title="Hilfeseite anzeigen">Hilfe</a></li><li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikipedia [r]" accesskey="r">Letzte Änderungen</a></li><li id="n-contact"><a href="/wiki/Wikipedia:Kontakt">Kontakt</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_de.wikipedia.org&amp;uselang=de" title="Unterstütze uns">Spenden</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Werkzeuge</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li><li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)" rel="nofollow" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li><li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li><li id="t-permalink"><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;oldid=204048083" title="Dauerhafter Link zu dieser Seitenversion">Permanenter Link</a></li><li id="t-info"><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;action=info" title="Weitere Informationen über diese Seite">Seiten­informationen</a></li><li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_%28historisch%29&amp;id=204048083&amp;wpFormIdentifier=titleform" title="Hinweise, wie diese Seite zitiert werden kann">Artikel zitieren</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1487979" title="Link zum verbundenen Objekt im Datenrepositorium [g]" accesskey="g">Wikidata-Datenobjekt</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Drucken/­exportieren</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=book_creator&amp;referer=Liste+der+gr%C3%B6%C3%9Ften+St%C3%A4dte+der+Welt+%28historisch%29">Buch erstellen</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Spezial:DownloadAsPdf&amp;page=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_%28historisch%29&amp;action=show-download-screen">Als PDF herunterladen</a></li><li id="t-print"><a href="/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>In anderen Sprachen</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Historical_urban_community_sizes" title="Historical urban community sizes – Englisch" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Poblaci%C3%B3n_estimada_de_ciudades_hist%C3%B3ricas" title="Población estimada de ciudades históricas – Spanisch" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Cronolox%C3%ADa_das_principais_cidades_da_historia" title="Cronoloxía das principais cidades da historia – Galicisch" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Maggiori_citt%C3%A0_nei_tempi_storici" title="Maggiori città nei tempi storici – Italienisch" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%AD%B4%E5%8F%B2%E4%B8%8A%E3%81%AE%E6%8E%A8%E5%AE%9A%E9%83%BD%E5%B8%82%E4%BA%BA%E5%8F%A3" title="歴史上の推定都市人口 – Japanisch" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D1%8B%D0%BA_%D1%81%D0%B0%D0%BD%D1%8B_%D0%B1%D1%83%D0%B5%D0%BD%D1%87%D0%B0_%D0%B4%D3%A9%D0%BD%D1%8C%D1%8F_%D1%82%D0%B0%D1%80%D0%B8%D1%85%D1%8B%D0%BD%D0%B4%D0%B0%D0%B3%D1%8B_%D0%B8%D2%A3_%D0%B7%D1%83%D1%80_%D1%88%D3%99%D2%BB%D3%99%D1%80%D0%BB%D3%99%D1%80" title="Халык саны буенча дөнья тарихындагы иң зур шәһәрләр – Tatarisch" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B9%D0%B1%D1%96%D0%BB%D1%8C%D1%88%D1%96_%D0%BC%D1%96%D1%81%D1%82%D0%B0_%D1%81%D0%B2%D1%96%D1%82%D1%83_%D0%B2_%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%97" title="Найбільші міста світу в історії – Ukrainisch" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%9F%8E%E5%B8%82%E8%A7%84%E6%A8%A1" title="历史上的城市规模 – Chinesisch" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1487979#sitelinks-wikipedia" title="Links auf Artikel in anderen Sprachen bearbeiten" class="wbc-editpage">Links bearbeiten</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 28. September 2020 um 06:17 Uhr bearbeitet.</li>
+		<li id="footer-info-copyright"><div id="footer-info-copyright-stats" class="noprint"><a class="external" href="https://pageviews.toolforge.org/?pages=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;project=de.wikipedia.org" rel="nofollow">Abrufstatistik</a> · <a class="external" href=" https://xtools.wmflabs.org/articleinfo-authorship/de.wikipedia.org/Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)?uselang=de" rel="nofollow">Autoren</a> </div><div id="footer-info-copyright-separator"><br /></div><div id="footer-info-copyright-info">
+Der Text ist unter der Lizenz <a class="internal" href="https://de.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported">„Creative Commons Attribution/Share Alike“</a> verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den <a class="internal" href="https://foundation.wikimedia.org/wiki/Terms_of_Use/de">Nutzungsbedingungen</a> und der <a class="internal" href="https://meta.wikimedia.org/wiki/Privacy_policy/de">Datenschutzrichtlinie</a> einverstanden.<br />
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.</div></li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/de" class="extiw" title="m:Privacy policy/de">Datenschutz</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:%C3%9Cber_Wikipedia" title="Wikipedia:Über Wikipedia">Über Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Impressum" title="Wikipedia:Impressum">Impressum</a></li>
+		<li id="footer-places-mobileview"><a href="//de.m.wikipedia.org/w/index.php?title=Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile Ansicht</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Entwickler</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/de.wikipedia.org">Statistiken</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Stellungnahme zu Cookies</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.251","ppvisitednodes":{"value":857,"limit":1000000},"postexpandincludesize":{"value":7349,"limit":2097152},"templateargumentsize":{"value":1566,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10401,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  121.769      1 -total"," 57.72%   70.288      1 Vorlage:Internetquelle"," 42.18%   51.362      1 Vorlage:Toter_Link"," 17.61%   21.442      1 Vorlage:Booland"," 14.98%   18.245      1 Vorlage:Str_len"," 13.16%   16.023      1 Vorlage:Toter_Link/Core","  6.42%    7.813      1 Vorlage:Toter_Link/archivebot","  3.28%    3.998      1 Vorlage:Info"]},"scribunto":{"limitreport-timeusage":{"value":"0.030","limit":"10.000"},"limitreport-memusage":{"value":1989132,"limit":52428800}},"cachereport":{"origin":"mw2375","timestamp":"20201001182035","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Liste der gr\u00f6\u00dften St\u00e4dte der Welt (historisch)","url":"https:\/\/de.wikipedia.org\/wiki\/Liste_der_gr%C3%B6%C3%9Ften_St%C3%A4dte_der_Welt_(historisch)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1487979","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1487979","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-26T23:10:53Z","headline":"Wikimedia-Liste"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":158,"wgHostname":"mw2311"});});</script>
+</body></html>
